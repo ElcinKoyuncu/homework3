@@ -9,7 +9,7 @@ This is the homework for password generator
 
 ## Screenshot for the application
 
-![Screenshot](./assets/screenshot.png)
+![Screenshot](.homework3/assets/screenshot.png)
 
 
 

@@ -5,7 +5,7 @@
 This is the homework for password generator
 
 ## Link for the repo
-[My third homework](https://elcinkoyuncu.github.io/Portfolio/)
+[My third homework](https://elcinkoyuncu.github.io/homework3/)
 
 ## Screenshot for the application
 
